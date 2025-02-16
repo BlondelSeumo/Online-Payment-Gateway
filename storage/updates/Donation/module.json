@@ -1,0 +1,16 @@
+{
+    "name": "Donation",
+    "alias": "donation",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "version": "1.0.0",
+    "providers": [
+        "Modules\\Donation\\Providers\\DonationServiceProvider"
+    ],
+    "aliases": {},
+    "files": [
+        "Entities/helpers.php"
+    ],
+    "requires": []
+}

@@ -1,0 +1,16 @@
+div.a2a_full_footer a, div.a2a_full_footer a:visited {
+    display: none !important;
+}
+
+.a2a_default_style:not(.a2a_flex_style) a {
+    padding: 6px !important;
+}
+.a2a_svg{
+    height: 43px !important ;
+    width: 43px !important;
+}
+body.modal-open{
+    overflow-y: auto !important;
+    overflow-x: hidden !important;
+    padding-right: 0px !important;
+}
